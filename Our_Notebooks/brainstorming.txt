@@ -1,0 +1,56 @@
+What are some questions/areas we want to explore?
+- median home price increase/decrease
+- what counties in the bay are saw the most growth/decrease? Can we draw conclusions from these
+ changes?
+- what types of housing were sold the most (single family, apt/condo)
+- The effects on residential housing vs. commercial
+- can we examine the age and job of people moving? Examine families moving v. singles
+- did any properties get rezoned?
+- what was the predicted housing growth in 2019 vs. now?
+- Average number of residnents in 2019 vs. 2023
+- how many commercial buildings remain unused from remote work?
+- California exdous, did it increase in other cities (Austin, Las Vegas, Portland, Seatle, Denver)
+- rental spike in 2020 in rural/suburban places?
+- was there a decrease permits for building new construction?
+- DMV database for people who changed addresses?
+- Aanlyze the effects of loan interest rates 
+- housing sales vs. covid spikes 
+- housing vacancies and bank repossessions 
+- examine effects of stimulus checks with home purchasing
+- change in rental prices by regions and if there is correlation with house price 
+
+
+
+               "Analyzing the Impact of COVID-19 on California" 
+
+project planning:
+     API data sources : 
+     Geoapify,  Kaggle, Zillo API,  Realtor.com API  , COVID-19 Data APIs, 
+     Economic Data APIs such as U.S. Bureau of Economic Analysis BEA API,  
+     U.S. Bureau of Labor Statistics (BLS) API , Mortgage Rate APIs 
+     
+ data covers the period before, during, and after the COVID-19 pandemic.(may be  2016 to 2023 ? .....)
+ 
+ Data Preprocessing:
+     Clean and preprocess the collected data to ensure its quality and usability
+     Handle missing values, outliers, and inconsistencies in the data.
+     Transform data into appropriate formats for analysis
+     
+Specific Areas of Analysis:
+Focus on specific aspects of the real estate market and their relationship with COVID-19, such as:
+    Housing prices and sales volume.
+    Rental market trends.
+    Mortgage rates and lending activities.
+    Commercial real estate market.
+    Demand and supply dynamics.
+    Geographic variations and regional impacts.
+    
+Visualizations and Insights:
+   Create informative visualizations (e.g., graphs, charts, maps) to present key findings.
+   Summarize the insights gained from the analysis.
+   Highlight any significant trends, changes, or patterns observed during the COVID-19 period.
+    
+Conclusion and Recommendations:
+  Summarize the overall impact of COVID-19 on the real estate market.
+  Provide recommendations for various stakeholders (e.g., buyers, sellers, investors) based on the analysis.
+  Discuss potential future implications and trends in the post-pandemic real estate market.
